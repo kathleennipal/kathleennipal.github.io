@@ -14,11 +14,11 @@ github:
 header: images/logo.png
 
 # Formspree contact Form
-contact_form: "https://formspree.io/ctarwater@chrisanthropic.com"
+contact_form: "https://formspree.io/kathleen.nipal@gmail.com"
 
 
 # Exclude our ruby stuff
-exclude: [.bundle, .vendor, .bin, starving-artist.gemspec, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, starving-artist-jekyll-theme-*.gem]
+exclude: [convert.sh, .idea, .bundle, .vendor, .bin, starving-artist.gemspec, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, starving-artist-jekyll-theme-*.gem]
 
 
 # Build settings
