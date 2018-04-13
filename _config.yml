@@ -9,7 +9,7 @@ description: The Personal Portfolio Website of Kathleen Nipal
 
  #Only use this if you are serving your site via Github Pages
 github:
-  url: "https://kathleennipal.github.io/"
+  url: "https://kathleennipal.github.io"
 
 header: images/logo.png
 
