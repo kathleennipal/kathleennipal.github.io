@@ -1,14 +1,14 @@
 # Site settings
-title: Starving Artist Jekyll Theme
-email: ctarwater@chrisanthropic.com
-author: Chrisanthropic
+title: Kathleen Nipal
+email: kathleen.nipal@gmail.com
+author: KathleenNipal
 
 keywords: jekyll, jekyll theme, portfolio theme, artist theme
 description: Witty description here.
 
 # Only use this if you are serving your site via Github Pages
-github:
-  url: "https://chrisanthropic.github.io/starving-artist-jekyll-theme"
+#github:
+#  url: "https://chrisanthropic.github.io/starving-artist-jekyll-theme"
 
 header: images/logo.png
 
@@ -26,14 +26,14 @@ kramdown:
   input: GFM
 
 theme: starving-artist-jekyll-theme
-  
+
 # Plugins
 gems:
   - jekyll-feed
 
 feed:
   path: atom.xml
-  
+
 # Compress our Css
 #sass:
 #    style: :compressed
@@ -47,7 +47,7 @@ collections:
 
 #### SEO Stuff
 # Google Analytics
-google_universal_analytics: 
+google_universal_analytics:
 google_universal_analytics_cookiedomain: auto
 
 # Facebook Opengraph
@@ -58,6 +58,6 @@ facebook_page:                                  #the URL of your Facebook Page
 facebook_image: images/author.jpg                      #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
 
 # Twitter Cards
-twitter_user: 
+twitter_user:
 twitter_card: true
 twitter_image: images/author.jpg                       #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.

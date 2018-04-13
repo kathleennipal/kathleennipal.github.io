@@ -171,6 +171,7 @@ a.lightbox-prev:visited, a.lightbox-next:visited, a.lightbox-popup-close:visited
   -webkit-transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
+  border: thin solid #DDD;
 }
 
 .zoom:hover {
@@ -183,4 +184,3 @@ a.lightbox-prev:visited, a.lightbox-next:visited, a.lightbox-popup-close:visited
   -o-transition: all 0.2s linear;
   overflow: auto;
 }
-
