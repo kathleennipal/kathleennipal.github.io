@@ -3,12 +3,13 @@ title: Kathleen Nipal
 email: kathleen.nipal@gmail.com
 author: KathleenNipal
 
-keywords: jekyll, jekyll theme, portfolio theme, artist theme
-description: Witty description here.
+keywords: portfolio, graphic design, art
+description: The Personal Portfolio Website of Kathleen Nipal
 
-# Only use this if you are serving your site via Github Pages
-#github:
-#  url: "https://chrisanthropic.github.io/starving-artist-jekyll-theme"
+
+ #Only use this if you are serving your site via Github Pages
+github:
+  url: "https://kathleennipal.github.io/"
 
 header: images/logo.png
 
