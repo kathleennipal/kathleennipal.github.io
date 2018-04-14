@@ -1,81 +1,51 @@
 ---
   name: "graphicdesign"
   arts:
-    - image: "images/galleries/graphicdesign/conceptual_map.png"
-      order: "1"
-      title: "Conceptual Map"
-      artist: "Kathleen Nipal"
-      description:
-
     - image: "images/galleries/graphicdesign/helvetica_article.jpg"
-      order: "2"
+      order: "1"
       title: "Magazine Spread"
       artist: "Kathleen Nipal"
       description:
 
     - image: "images/galleries/graphicdesign/restaurant_logo.jpg"
-      order: "3"
+      order: "2"
       title: "Restaurant Logo"
       artist: "Kathleen Nipal"
       description:
 
-    - image: "images/galleries/graphicdesign/restaurant_menu_front.jpg"
-      order: "4"
-      title: "Restaurant Menu (Front)"
-      artist: "Kathleen Nipal"
-      description:
-
-    - image: "images/galleries/graphicdesign/restaurant_menu_main.jpg"
-      order: "5"
+    - image: "images/galleries/graphicdesign/restaurant_menu.jpg"
+      order: "3"
       title: "Restaurant Menu"
       artist: "Kathleen Nipal"
       description:
 
-    - image: "images/galleries/graphicdesign/restaurant_menu_back.jpg"
-      order: "6"
-      title: "Restaurant Menu (Back)"
-      artist: "Kathleen Nipal"
-      description:
-
     - image: "images/galleries/graphicdesign/restaurant_triptych.jpg"
-      order: "7"
-      title: "Restaurant Triptych"
+      order: "4"
+      title: "Restaurant Posters"
       artist: "Kathleen Nipal"
       description:
 
     - image: "images/galleries/graphicdesign/typography_poster.jpg"
-      order: "8"
+      order: "5"
       title: "Typography Poster"
       artist: "Kathleen Nipal"
       description:
 
     - image: "images/galleries/graphicdesign/marvel.png"
-      order: "9"
+      order: "6"
       title: "Marvel Poll"
       artist: "Kathleen Nipal"
       description:
 
     - image: "images/galleries/graphicdesign/invented_typeface.jpg"
-      order: "10"
+      order: "7"
       title: "Invented Typeface"
       artist: "Kathleen Nipal"
       description:
 
     - image: "images/galleries/graphicdesign/ligatures.png"
-      order: "11"
+      order: "8"
       title: "Ligatures"
-      artist: "Kathleen Nipal"
-      description:
-
-    - image: "images/galleries/graphicdesign/hair_dryer_lineart.png"
-      order: "12"
-      title: "Hair Dryer Render"
-      artist: "Kathleen Nipal"
-      description:
-
-    - image: "images/galleries/graphicdesign/xacto_lineart.jpg"
-      order: "13"
-      title: "X-acto Knife Render"
       artist: "Kathleen Nipal"
       description:
 
