@@ -31,7 +31,7 @@
       artist: "Kathleen Nipal"
       description:
 
-    - image: "images/galleries/graphicdesign/marvel.png"
+    - image: "images/galleries/graphicdesign/marvel.jpg"
       order: "6"
       title: "Marvel Poll"
       artist: "Kathleen Nipal"
@@ -43,7 +43,7 @@
       artist: "Kathleen Nipal"
       description:
 
-    - image: "images/galleries/graphicdesign/ligatures.png"
+    - image: "images/galleries/graphicdesign/ligatures.jpg"
       order: "8"
       title: "Ligatures"
       artist: "Kathleen Nipal"
