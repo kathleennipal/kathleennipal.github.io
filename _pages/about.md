@@ -3,9 +3,5 @@ layout: about
 title: about
 logo: "images/author.jpg"
 permalink: "/about/"
---- 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
-
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+---
+I’m a problem-solver. Whether a magazine spread requires a minimalist approach or a poster needs bold, innovative flair, I come up with A+ designs while adding a touch of my own personality. I’m a New Jersey-based designer pursuing a Bachelor in Fine Arts with a concentration in Graphic & Interactive Design at William Paterson University. Design is my passion, and I am always exploring new venues to develop and refine my craft. Feel free to browse my work, and if you like what you see, let’s keep in touch.
