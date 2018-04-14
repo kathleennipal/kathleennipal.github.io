@@ -1,5 +1,5 @@
 ---
 layout: gallery
-title: graphicdesign
-permalink: "/graphicdesign/"
+title: photography
+permalink: "/photography/"
 ---
