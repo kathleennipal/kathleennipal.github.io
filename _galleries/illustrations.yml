@@ -1,0 +1,52 @@
+---
+  name: "graphicdesign"
+  arts:
+    - image: "images/galleries/graphicdesign/helvetica_article.jpg"
+      order: "1"
+      title: "Magazine Spread"
+      artist: "Kathleen Nipal"
+      description:
+
+    - image: "images/galleries/graphicdesign/restaurant_logo.jpg"
+      order: "2"
+      title: "Restaurant Logo"
+      artist: "Kathleen Nipal"
+      description:
+
+    - image: "images/galleries/graphicdesign/restaurant_menu.jpg"
+      order: "3"
+      title: "Restaurant Menu"
+      artist: "Kathleen Nipal"
+      description:
+
+    - image: "images/galleries/graphicdesign/restaurant_triptych.jpg"
+      order: "4"
+      title: "Restaurant Posters"
+      artist: "Kathleen Nipal"
+      description:
+
+    - image: "images/galleries/graphicdesign/typography_poster.jpg"
+      order: "5"
+      title: "Typography Poster"
+      artist: "Kathleen Nipal"
+      description:
+
+    - image: "images/galleries/graphicdesign/marvel.jpg"
+      order: "6"
+      title: "Marvel Poll"
+      artist: "Kathleen Nipal"
+      description:
+
+    - image: "images/galleries/graphicdesign/invented_typeface.jpg"
+      order: "7"
+      title: "Invented Typeface"
+      artist: "Kathleen Nipal"
+      description:
+
+    - image: "images/galleries/graphicdesign/ligatures.jpg"
+      order: "8"
+      title: "Ligatures"
+      artist: "Kathleen Nipal"
+      description:
+
+---
