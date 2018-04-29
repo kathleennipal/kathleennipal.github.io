@@ -1,5 +1,5 @@
 ---
 layout: gallery
-title: graphicdesign
+title: graphic design
 permalink: "/graphicdesign/"
 ---
