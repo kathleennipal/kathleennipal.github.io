@@ -50,6 +50,12 @@
   }
 }
 
+.icon-resume {
+	&:before {
+		content: "\e926";
+	}
+}
+
 // Base styling for individual icons
 .icon-googleplus:before {
 	content: "\e600";
@@ -109,4 +115,8 @@
 }
 .icon-linkedin2:hover {
 	color: #007bb6;
+}
+
+.icon-resume:hover {
+	color: #00FF48;
 }
